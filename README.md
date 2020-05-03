@@ -8,7 +8,7 @@ Parse xml data of PubMed articles; process the text (article title, abstract, ke
 - **quickUMLS.ipynb** shows how to run QuickUMLS on the output of the parsing
 
 ## Requirements
-1) To run QuickUMLS, you will need to obtain a license from from the National Library of Medicine and download all UMLS files. See instructions and links [here](https://github.com/Georgetown-IR-Lab/QuickUMLS). In the **quickUMLS.ipynb** notebook, it is assumed that a folder called `quickUMLS_eng` is located in `data`.
+1) To run QuickUMLS, you will need to obtain a license from the National Library of Medicine and download all UMLS files. See instructions and links [here](https://github.com/Georgetown-IR-Lab/QuickUMLS). In the **quickUMLS.ipynb** notebook, it is assumed that a folder called `quickUMLS_eng` is located in `data`.
 2) It is recommended to install a conda environment using the **environment.yml** file and the following additional steps:
 
 ```
