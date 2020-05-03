@@ -1,0 +1,131 @@
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31362644</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-8305</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jul</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nutritional neuroscience</Title>
+                <ISOAbbreviation>Nutr Neurosci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The role of nutritional factors during adolescence in multiple sclerosis onset: a population-based incident case-control study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/1028415X.2019.1647689</ELocationID>
+            <Abstract>
+                <AbstractText><b>Objective:</b> The potential role of nutritional factors in multiple sclerosis (MS) etiology is not clearly understood. The authors investigated the association between dietary intake during adolescence with MS. <b>Design, setting and participants:</b> This was a population-based incident case-control study in Iran with 547 incident cases and 1057 general population controls (7/8/2013-17/2/2015). Logistic regression was used to test differences in dietary intake between cases and controls adjusted for confounders. <b>Results:</b> We found that a higher dietary consumption during adolescence of fresh fish, canned tuna, poultry, cheese, yogurt, butter, fruit, vegetables and a number of dietary supplements were associated with a significantly reduced risk of MS, while red meat, shrimp, and margarine were not associated with MS. Fresh fish had a dose-response association of 0.71 (0.58-0.88) per category increase, and consuming &gt;0.5 serves of canned tuna fish per week had an OR of 0.72 (0.56-0.90); fruit intake had an OR of 0.82 (0.71-0.94) per category increase and cheese consumption an OR of 0.78 (0.67-0.91) per category increase. <b>Conclusions:</b> We identified that a higher intake of a number of food groups generally viewed as healthy were associated with a reduced risk of MS. A healthier diet during adolescence may be protective of developing MS.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Abdollahpour</LastName>
+                    <ForeName>Ibrahim</ForeName>
+                    <Initials>I</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-8607-4507</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Neuroscience research center, Isfahan University of Medical Sciences , Isfahan , Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sormani</LastName>
+                    <ForeName>Maria Pia</ForeName>
+                    <Initials>MP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Department of Health Sciences, University of Genova , Genova , Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>c IRCCS Ospedale Policlinico San artino , Genova , Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nedjat</LastName>
+                    <ForeName>Saharnaz</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>d Department of Epidemiology and Biostatistics, School of Public Health, Tehran University of Medical Sciences, Knowledge Utilization Research Center, Tehran University of Medical Science , Tehran , Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mansournia</LastName>
+                    <ForeName>Mohammad Ali</ForeName>
+                    <Initials>MA</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-3343-2718</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>e Department of Epidemiology and Biostatistics, School of Public Health, Tehran University of Medical Sciences , Tehran , Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Mei</LastName>
+                    <ForeName>Ingrid</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>f Ingrid van der Mei: Menzies Institute for Medical Research, University of Tasmania , Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nutr Neurosci</MedlineTA>
+            <NlmUniqueID>100892202</NlmUniqueID>
+            <ISSNLinking>1028-415X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Multiple sclerosis</Keyword>
+            <Keyword MajorTopicYN="N">adolescence</Keyword>
+            <Keyword MajorTopicYN="N">nutritional factors</Keyword>
+            <Keyword MajorTopicYN="N">population-based incident case–control</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31362644</ArticleId>
+            <ArticleId IdType="doi">10.1080/1028415X.2019.1647689</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

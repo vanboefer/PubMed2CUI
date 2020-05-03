@@ -1,0 +1,181 @@
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31610401</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2211-0356</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>36</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Multiple sclerosis and related disorders</Title>
+                <ISOAbbreviation>Mult Scler Relat Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Randomized-controlled trial of a modified Mediterranean dietary program for multiple sclerosis: A pilot study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>101403</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S2211-0348(19)30383-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.msard.2019.101403</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">There is a high level of interest in the potential role of diet among the MS community. There is a limited level of evidence for a Mediterranean-style dietary pattern in MS; the feasibility of conducting studies using educational tools to deliver this type of intervention and study its effects is unknown.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To establish clinical trial feasibility for future studies utilizing educational delivery of a dietary intervention in MS; to explore the effects of a modified Mediterranean dietary intervention in MS.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We randomly assigned women with MS to follow/not follow the prescribed modified Mediterranean dietary intervention for 6 months, delivered through educational sessions. The diet encouraged the intake of fish and other foods high in poly- and monounsaturated fats, fresh fruits, vegetables, and whole grains and eliminated meat, dairy, and most processed foods and limited salt intake to &lt;2 g/day. Primary endpoints related to meeting target enrollment within the specified time frame, adherence, and study completion. Clinical endpoints were evaluated in an exploratory fashion.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We screened 128 potential participants and enrolled 36 within 9 months, surpassing target enrollment of 30 participants at a single center in 1 year. Self-reported adherence was excellent (90.3%), with an overall study completion rate of 94.4%. The intervention group exhibited a statistically significant decline in the trajectory of Neurological Fatigue Index-MS scores (p = 0.01), a trend toward reduced Multiple Sclerosis Impact Scale-29 scores that became significant after outlier removal (p = 0.12; p = 0.023), and a reduction in Expanded Disability Status Scale (p = 0.01) over time as compared to the non-intervention group.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">It is reasonable to expect a high level of interest and commitment to this type of dietary intervention study in MS, and feasible to deliver it purely through education in a clinical setting with high adherence levels despite restrictive requirements. In this pilot study, a modified Mediterranean dietary intervention reduced fatigue, impact of MS symptoms, and disability. Further work is needed.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Katz Sand</LastName>
+                    <ForeName>Ilana</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Icahn School of Medicine at Mount Sinai, United States. Electronic address: ilana.katzsand@mssm.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Benn</LastName>
+                    <ForeName>Emma K T</ForeName>
+                    <Initials>EKT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biostatistics and Department of Population Health Science and Policy, Icahn School of Medicine at Mount Sinai, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fabian</LastName>
+                    <ForeName>Michelle</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Icahn School of Medicine at Mount Sinai, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fitzgerald</LastName>
+                    <ForeName>Kathryn C</ForeName>
+                    <Initials>KC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Johns Hopkins, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Digga</LastName>
+                    <ForeName>Elise</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Icahn School of Medicine at Mount Sinai, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deshpande</LastName>
+                    <ForeName>Richa</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biostatistics and Department of Population Health Science and Policy, Icahn School of Medicine at Mount Sinai, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Aaron</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Icahn School of Medicine at Mount Sinai, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gallo</LastName>
+                    <ForeName>Samantha</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Nutrition, The Mount Sinai Hospital, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arab</LastName>
+                    <ForeName>Lenore</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, The David Geffen School of Medicine, University of California Los Angeles, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Mult Scler Relat Disord</MedlineTA>
+            <NlmUniqueID>101580247</NlmUniqueID>
+            <ISSNLinking>2211-0348</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Clinical trial</Keyword>
+            <Keyword MajorTopicYN="N">Diet</Keyword>
+            <Keyword MajorTopicYN="N">Fatigue</Keyword>
+            <Keyword MajorTopicYN="N">Mediterranean</Keyword>
+            <Keyword MajorTopicYN="N">Multiple sclerosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31610401</ArticleId>
+            <ArticleId IdType="pii">S2211-0348(19)30383-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.msard.2019.101403</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

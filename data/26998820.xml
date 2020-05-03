@@ -1,0 +1,285 @@
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">26998820</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1468-1331</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>23</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>06</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of neurology</Title>
+                <ISOAbbreviation>Eur. J. Neurol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vitamin D, HLA-DRB1 and Epstein-Barr virus antibody levels in a prospective cohort of multiple sclerosis patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1064-70</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/ene.12986</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND PURPOSE">Our objective was to study the association between serum levels of anti Epstein-Barr virus nuclear antigen 1 (EBNA-1) antibody and 25-hydroxyvitamin D (25(OH)D) in a prospective cohort of patients with relapsing-remitting multiple sclerosis.</AbstractText>
+                <AbstractText Label="METHOD">The study comprised 90 patients with relapsing-remitting multiple sclerosis, all participants in a randomized clinical trial of ω-3 fatty acids (the OFAMS study). Repeated, paired measurements of serum 25(OH)D and serum EBNA-1 immunoglobulin G (IgG) levels were obtained at baseline and every 6 months for 24 months. The association between serum EBNA-1 IgG and serum 25(OH)D levels was analysed using generalized linear models for hierarchical data.</AbstractText>
+                <AbstractText Label="RESULTS">There was a significant variation in EBNA-1 IgG antibody level between sampling months (Fdf 11 = 1.8, P = 0.043, one-way anova). There was a negative association between EBNA-1 IgG and 25(OH)D [B = -0.230, 95% confidence interval (CI) (-0.440, -0.023), P = 0.030] and a positive association between EBNA-1 IgG and HLA-DRB1*15 positive status [B = 94.7, 95% CI (2.423, 186.9), P = 0.044]. The association between 25(OH)D and EBNA-1 IgG remained significant after adjusting for the patient's age, gender, HLA-DRB1*15, retinol levels and interferon β-1a treatment.</AbstractText>
+                <AbstractText Label="CONCLUSION">Our study demonstrates monthly differences in EBNA-1 IgG levels and an association between EBNA-1 IgG, 25(OH)D levels and HLA-DRB1*15. These results indicate that EBNA-1 IgG serum levels are affected by genetic and environmental factors that also modulate multiple sclerosis risk.</AbstractText>
+                <CopyrightInformation>© 2016 EAN.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wergeland</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Norwegian Multiple Sclerosis Competence Centre, Haukeland University Hospital, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Myhr</LastName>
+                    <ForeName>K-M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Medicine, KG Jebsen MS Research Centre, University of Bergen, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Clinical Medicine, Faculty of Medicine and Dentistry, University of Bergen, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Løken-Amsrud</LastName>
+                    <ForeName>K I</ForeName>
+                    <Initials>KI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Innlandet Hospital Trust, Lillehammer, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beiske</LastName>
+                    <ForeName>A G</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Multiple Sclerosis Centre Hakadal, Hakadal, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bjerve</LastName>
+                    <ForeName>K S</ForeName>
+                    <Initials>KS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Laboratory Medicine, St Olavs Hospital, Trondheim University Hospital, Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, Children's and Women's Health, Norwegian University of Science and Technology, Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hovdal</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, St Olavs Hospital, Trondheim University Hospital, Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Midgard</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Molde Hospital, Molde, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Unit for Applied Clinical Research, Norwegian University of Science and Technology, Trondheim, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kvistad</LastName>
+                    <ForeName>S S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, Haukeland University Hospital, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holmøy</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Akershus University Hospital, Lørenskog, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Clinical Medicine, University of Oslo, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Riise</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Global Public Health and Primary Care, University of Bergen, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torkildsen</LastName>
+                    <ForeName>Ø</ForeName>
+                    <Initials>Ø</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Norwegian Multiple Sclerosis Competence Centre, Haukeland University Hospital, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Clinical Medicine, Faculty of Medicine and Dentistry, University of Bergen, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>03</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Eur J Neurol</MedlineTA>
+            <NlmUniqueID>9506311</NlmUniqueID>
+            <ISSNLinking>1351-5101</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019309">Epstein-Barr Virus Nuclear Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D059811">HLA-DRB1 Chains</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>O5GA75RST7</RegistryNumber>
+                <NameOfSubstance UI="C417029">EBV-encoded nuclear antigen 1</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Eur J Neurol. 2018 Sep;25(9):e104</RefSource>
+                <PMID Version="1">30134049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Eur J Neurol. 2018 Sep;25(9):e103</RefSource>
+                <PMID Version="1">30134050</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019309" MajorTopicYN="N">Epstein-Barr Virus Nuclear Antigens</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059811" MajorTopicYN="N">HLA-DRB1 Chains</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009103" MajorTopicYN="N">Multiple Sclerosis</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Epstein-Barr virus</Keyword>
+            <Keyword MajorTopicYN="Y">multiple sclerosis</Keyword>
+            <Keyword MajorTopicYN="Y">prospective cohort study</Keyword>
+            <Keyword MajorTopicYN="Y">vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>01</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26998820</ArticleId>
+            <ArticleId IdType="doi">10.1111/ene.12986</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

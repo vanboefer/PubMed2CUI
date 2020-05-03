@@ -1,0 +1,234 @@
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32300060</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1526-632X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Apr</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neurology</Title>
+                <ISOAbbreviation>Neurology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vitamin D, smoking, EBV, and long-term cognitive performance in MS: 11-year follow-up of BENEFIT.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">10.1212/WNL.0000000000009371</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1212/WNL.0000000000009371</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate whether vitamin D, smoking, and anti-Epstein-Barr virus (EBV) antibody concentrations predict long-term cognitive status and neuroaxonal injury in multiple sclerosis (MS).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This study was conducted among 278 patients with clinically isolated syndrome who participated in the clinical trial BENEFIT (Betaferon/Betaseron in Newly Emerging Multiple Sclerosis for Initial Treatment) and completed the 11-year assessment (BENEFIT-11). We measured serum 25-hydroxyvitamin-D (25(OH)D), cotinine (smoking biomarker), and anti-Epstein-Barr virus nuclear antigen 1 (EBNA-1) immunoglobulin G (IgG) at baseline and at months 6, 12, and 24 and examined whether these biomarkers contributed to predict Paced Auditory Serial Addition Test (PASAT)-3 scores and serum neurofilament light chain (NfL) concentrations at 11 years. Linear and logistic regression models were adjusted for sex, baseline age, treatment allocation, steroid treatment, multifocal symptoms, T2 lesions, and body mass index.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Higher vitamin D predicted better, whereas smoking predicted worse cognitive performance. A 50-nmol/L higher mean 25(OH)D in the first 2 years was related to 65% lower odds of poorer PASAT performance at year 11 (95% confidence intervals [95% CIs]: 0.14-0.89). Standardized PASAT scores were lower in smokers and heavy smokers than nonsmokers (<i>p</i><sub>trend</sub> = 0.026). Baseline anti-EBNA-1 IgG levels did not predict cognitive performance (<i>p</i><sub>trend</sub> = 0.88). Associations with NfL concentrations at year 11 corroborated these findings-a 50-nmol/L higher mean 25(OH)D in the first 2 years was associated with 20% lower NfL (95% CI: -36% to 0%), whereas smokers had 20% higher NfL levels than nonsmokers (95% CI: 2%-40%). Anti-EBNA-1 antibodies were not associated with NfL.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Lower vitamin D and smoking after clinical onset predicted worse long-term cognitive function and neuronal integrity in patients with MS.</AbstractText>
+                <CopyrightInformation>© 2020 American Academy of Neurology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cortese</LastName>
+                    <ForeName>Marianna</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA. mcortese@hsph.harvard.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Munger</LastName>
+                    <ForeName>Kassandra L</ForeName>
+                    <Initials>KL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martínez-Lapiscina</LastName>
+                    <ForeName>Elena H</ForeName>
+                    <Initials>EH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barro</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edan</LastName>
+                    <ForeName>Gilles</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Freedman</LastName>
+                    <ForeName>Mark S</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hartung</LastName>
+                    <ForeName>Hans-Peter</ForeName>
+                    <Initials>HP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montalbán</LastName>
+                    <ForeName>Xavier</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foley</LastName>
+                    <ForeName>Frederick W</ForeName>
+                    <Initials>FW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Penner</LastName>
+                    <ForeName>Iris Katharina</ForeName>
+                    <Initials>IK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hemmer</LastName>
+                    <ForeName>Bernhard</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5985-6784</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fox</LastName>
+                    <ForeName>Edward J</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schippling</LastName>
+                    <ForeName>Sven</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wicklein</LastName>
+                    <ForeName>Eva-Maria</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kappos</LastName>
+                    <ForeName>Ludwig</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuhle</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ascherio</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Nutrition (M.C., K.L.M, A.A.), Harvard T.H. Chan School of Public Health, Boston, MA; Department of Global Public Health and Primary Care (M.C.), University of Bergen, Bergen, Norway; Department of Neurology (E.H.M.-L.), Institut d'Investigacions Biomèdiques August Pi Sunyer (IDIBAPS), University of Barcelona, Barcelona, Spain; Departments of Medicine, Biomedicine and Clinical Research (C.B., L.K., J.K.), Neurologic Clinic and Policlinic, University Hospital Basel, University of Basel, Basel, Switzerland; CHU Hôpital Pontchaillou (G.E.), Rennes, France; University of Ottawa and Ottawa Hospital Research Institute (M.S.F.), Ottawa, Canada; Department of Neurology (H.-P.H.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf, Germany; St. Michael's Hospital (X.M.), University of Toronto, Canada and Multiple Sclerosis Center of Catalonia (Cemcat) (X.M.), Vall d'Hebron University Hospital, Barcelona, Spain; Ferkauf Graduate School of Psychology (F.W.F.), Yeshiva University, New York, NY; Department of Neurology (I.K.P.), Medical Faculty, Heinrich-Heine Universität, Düsseldorf and COGITO Center for Applied Neurocognition and Neuropsychological Research (I.K.P.), Düsseldorf, Germany; Technical University of Munich (B.H.), School of Medicine and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany; Central Texas Neurology Consultants (E.J.F.), Round Rock, TX; Neuroimmunology and Multiple Sclerosis Research (S.S.), Department of Neurology, University Hospital Zurich, University of Zurich and Center for Neuroscience Zurich (S.S.), Federal Institute of Technology (ETH), Zurich, Switzerland; Bayer AG (E.-M.W.), Berlin, Germany; Department of Epidemiology (A.A.), Harvard T.H. Chan School of Public Health, Boston, MA and Channing Division of Network Medicine (A.A.); and Department of Medicine (A.A.), Brigham and Women's Hospital and Harvard Medical School, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>BENEFIT Study Group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Neurology</MedlineTA>
+            <NlmUniqueID>0401060</NlmUniqueID>
+            <ISSNLinking>0028-3878</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32300060</ArticleId>
+            <ArticleId IdType="pii">WNL.0000000000009371</ArticleId>
+            <ArticleId IdType="doi">10.1212/WNL.0000000000009371</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

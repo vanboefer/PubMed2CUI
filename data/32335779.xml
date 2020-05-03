@@ -1,0 +1,358 @@
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32335779</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1590-3478</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Apr</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology</Title>
+                <ISOAbbreviation>Neurol. Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of THC/CBD oromucosal spray on spasticity-related symptoms in people with multiple sclerosis: results from a retrospective multicenter study.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10072-020-04413-6</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">The approval of 9-δ-tetrahydocannabinol (THC)+cannabidiol (CBD) oromucosal spray (Sativex®) in Italy as an add-on medication for the management of moderate to severe spasticity in multiple sclerosis (MS) has provided a new opportunity for MS patients with drug-resistant spasticity. We aimed to investigate the improvement of MS spasticity-related symptoms in a large cohort of patients with moderate to severe spasticity in daily clinical practice.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">MS patients with drug-resistant spasticity were recruited from 30 Italian MS centers. All patients were eligible for THC:CBD treatment according to the approved label: ≥ 18 years of age, at least moderate spasticity (MS spasticity numerical rating scale [NRS] score ≥ 4) and not responding to the common antispastic drugs. Patients were evaluated at baseline (T0) and after 4 weeks of treatment (T1) with the spasticity NRS scale and were also asked about meaningful improvements in 6 key spasticity-related symptoms.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Out of 1615 enrolled patients, 1432 reached the end of the first month trial period (T1). Of these, 1010 patients (70.5%) reached a ≥ 20% NRS score reduction compared with baseline (initial responders; IR). We found that 627 (43.8% of 1432) patients showed an improvement in at least one spasticity-related symptom (SRSr group), 543 (86.6%) of them belonging to the IR group and 84 (13.4%) to the spasticity NRS non-responders group.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our study confirmed that the therapeutic benefit of cannabinoids may extend beyond spasticity, improving spasticity-related symptoms even in non-NRS responder patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patti</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-6923-0846</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department &quot;G.F. Ingrassia&quot;, section of Neurosciences, University of Catania, Catania, Italy. patti@unict.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chisari</LastName>
+                    <ForeName>Clara Grazia</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department &quot;G.F. Ingrassia&quot;, section of Neurosciences, University of Catania, Catania, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Solaro</LastName>
+                    <ForeName>Claudio</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, ASL3 Genovese, and Department of Rehabilitation, ML Novarese Hospital Moncrivello, Genoa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Benedetti</LastName>
+                    <ForeName>Maria Donata</ForeName>
+                    <Initials>MD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuroscience, Biomedicine, and Movement Sciences, Section of Neurology, University of Verona, Verona, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berra</LastName>
+                    <ForeName>Eliana</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neurorehabilitation Unit, Department of Neurology, Neurology Institute C. Mondino, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bianco</LastName>
+                    <ForeName>Assunta</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Multiple Sclerosis Unit, Fondazione Policlinico Universitario A. Gemelli IRCCS, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bruno Bossio</LastName>
+                    <ForeName>Roberto</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neurology Operating Unit and Multiple Sclerosis Center, Provincial Health Authority of Cosenza, Cosenza, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Buttari</LastName>
+                    <ForeName>Fabio</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Synaptic Immunopathology Lab, Department of Systems Medicine, Tor Vergata University, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Castelli</LastName>
+                    <ForeName>Letizia</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neurology Unit, IRCCS Fondazione Don Carlo Gnocchi, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cavalla</LastName>
+                    <ForeName>Paola</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department Neuroscience and Mental Health, Multiple Sclerosis Centre, Health and Science City University Hospital of Turin, Turin, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cerqua</LastName>
+                    <ForeName>Raffaella</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental and Clinical Medicine, Neurological Clinic, Marche Polytechnic University, Ancona, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Costantino</LastName>
+                    <ForeName>Gianfranco</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Demyelinating Diseases Centre, Foggia Hospital, Foggia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gasperini</LastName>
+                    <ForeName>Claudio</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Multiple Sclerosis Centre, San Camillo-Forlanini Hospital, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guareschi</LastName>
+                    <ForeName>Angelica</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Multiple Sclerosis Center, Medicine Department, Fidenza Hospital, Fidenza, PR, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ippolito</LastName>
+                    <ForeName>Domenico</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Advanced Medical and Surgical Sciences, University of Campania &quot;Luigi Vanvitelli&quot;, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lanzillo</LastName>
+                    <ForeName>Roberta</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurosciences, Reproductive and Odontostomatological Sciences, University Federico II, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maniscalco</LastName>
+                    <ForeName>Giorgia Teresa</ForeName>
+                    <Initials>GT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Ospedale Cardarelli, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matta</LastName>
+                    <ForeName>Manuela</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neurobiology Unit, Neurologia 2, CReSM (Regional Referring Center Multiple Sclerosis), San Luigi Gonzaga University Hospital &amp; Neuroscience Institute Cavalieri Ottolenghi (NICO), Orbassano, TO, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paolicelli</LastName>
+                    <ForeName>Damiano</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Basic Medical Sciences, Neurosciences and Sense Organs, University of Bari Aldo Moro, Bari, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petrucci</LastName>
+                    <ForeName>Loredana</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Multiple Sclerosis Centre, University Hospital Pisa, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pontecorvo</LastName>
+                    <ForeName>Simona</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Multiple Sclerosis Center of Department of Neurology and Psychiatry of Sapienza, University of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Righini</LastName>
+                    <ForeName>Isabella</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of NEUROFARBA, University of Florence, Florence, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Russo</LastName>
+                    <ForeName>Margherita</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Multiple Sclerosis Centre, IRCCS-Bonino Pulejo Centre, Messina, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saccà</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurosciences, Reproductive and Odontostomatological Sciences, University Federico II, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salamone</LastName>
+                    <ForeName>Giovanna</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Neuroimmunology Unit, Villa Sofia-Cervello Hospital, Palermo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Signoriello</LastName>
+                    <ForeName>Elisabetta</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical and Experimental Medicine, Multiple Sclerosis Center, II Division of Neurology, University of Campania &quot;Luigi Vanvitelli&quot;, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spinicci</LastName>
+                    <ForeName>Gabriella</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Sciences and Public Health, Multiple Sclerosis Center, University of Cagliari, Cagliari, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spitaleri</LastName>
+                    <ForeName>Daniele</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Azienda Ospedaliera di Rilievo Nazionale, San Giuseppe Moscati, Avellino, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tavazzi</LastName>
+                    <ForeName>Eleonora</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Multiple Sclerosis Center, Unit of Motor Neurorehabilitation, IRCCS Santa Maria Nascente, Fondazione Don Gnocchi, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trotta</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Neurology, University &quot;Magna Graecia&quot;, Germaneto, Catanzaro, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zaffaroni</LastName>
+                    <ForeName>Mauro</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Multiple Sclerosis Center, ASST della Valle Olona, Gallarate Hospital, Gallarate, VA, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zappia</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department &quot;G.F. Ingrassia&quot;, section of Neurosciences, University of Catania, Catania, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>SA.FE. group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>04</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>Neurol Sci</MedlineTA>
+            <NlmUniqueID>100959175</NlmUniqueID>
+            <ISSNLinking>1590-1874</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CBD</Keyword>
+            <Keyword MajorTopicYN="N">Clinical practice</Keyword>
+            <Keyword MajorTopicYN="N">Multiple sclerosis</Keyword>
+            <Keyword MajorTopicYN="N">Spasticity-related symptoms</Keyword>
+            <Keyword MajorTopicYN="N">THC</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>04</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32335779</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10072-020-04413-6</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10072-020-04413-6</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
